@@ -1,5 +1,14 @@
 
-> Open this page at [https://maya-e-s.github.io/combo/](https://maya-e-s.github.io/combo/)
+> Open this page at [https://Microbit-Education.github.io/combo/](https://Microbit-Education.github.io/combo/)
+
+# Drone:bit Combo Example
+Program the drone:bit to take off, rotate 180 degrees, increase altitude, rotate back 180 degrees, and land.
+
+# CORY ADD VIDEO LINK BELOW
+## (an example of a video posted to my account is below)
+## Video not done
+## Video Demonstration <!--Video embedded as image wrapped in a link-->
+[![Hover video demonstration](https://img.youtube.com/vi/zqUvSMOW19Q/0.jpg)](https://youtu.be/zqUvSMOW19Q)
 
 ## Use as Extension
 
@@ -8,22 +17,22 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/maya-e-s/combo** and import
+* search for **https://github.com/Microbit-Education/combo** and import
 
-## Edit this project ![Build status badge](https://github.com/maya-e-s/combo/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/Microbit-Education/combo/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/maya-e-s/combo** and click import
+* paste **https://github.com/Microbit-Education/combo** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/maya-e-s/combo/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/Microbit-Education/combo/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
